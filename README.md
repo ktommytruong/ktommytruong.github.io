@@ -1,2 +1,9 @@
-# tommys_portfolio
-Data Analytics Portfolio
+# Data Analyst
+
+### Education
+B.S Business Administration 
+
+### Work Experience
+Sales
+
+### Projects
