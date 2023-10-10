@@ -1,4 +1,8 @@
 # About Me
+👋 Hello, I'm Tommy.
+For the last 6-months, I have been self-studying data analytics in order to make a career switch from sales. During that time, I've learned Microsoft Excel, SQL, and Tableau. Below, you will find projects that I've completed using these programs. 
+
+Aside from studying, I enjoy running/lifting weights, going on hikes, and trying new foods! 
 
 # [Project 1: Adidas Sales Dashboard](https://github.com/ktommytruong/Adidas-Sales-Dashboard-Project)
 
